@@ -62,6 +62,10 @@ A script library with useful Unity scripts!
 #### 17. Texture Flow
 - Offsets a texture on an object by custom values on x and y
 
+#### 18. Improved 2D Drag
+- Image dragging has never been easier! 
+- Adds an anchor to components you want to drag, from which you can said component
+- Makes sure the component does not snap to the mouse cursor when dragging
 
 ### 1st Person Kit
 - Contains scripts for making a quick first person controller in your game.
